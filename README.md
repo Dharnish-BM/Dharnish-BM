@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharnish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharnish-bm" alt="dharnish-bm" /></a> </p>
-
 - 📫 How to reach me **dharnish.bm.2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
