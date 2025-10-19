@@ -41,9 +41,6 @@ I enjoy writing clean, efficient code and building user-centric web applications
   <a href="https://www.hackerrank.com/dharnish_bm_2005" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/>
   </a>
-  <a href="https://leetcode.com/dharnishbm" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
-  </a>
 </p>
 
 ---
@@ -66,9 +63,5 @@ I enjoy writing clean, efficient code and building user-centric web applications
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dharnish-BM&icon=2&color=6" alt="Profile Visits" />
-</p>
 
 <!-- End of README -->
