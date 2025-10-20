@@ -38,9 +38,6 @@ I enjoy writing clean, efficient code and building user-centric web applications
   <a href="https://instagram.com/itz._dharnish.xte" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/dharnish_bm_2005" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40"/>
-  </a>
 </p>
 
 ---
